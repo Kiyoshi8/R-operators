@@ -32,5 +32,5 @@ a != 4
 
 # combine logical operations
 
-(a==4) & (b==6)
+(a==5) & (b==7)
 (a==4) | (b>5)
