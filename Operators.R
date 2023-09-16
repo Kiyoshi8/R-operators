@@ -3,13 +3,13 @@
 
 # basic operators
 
-4+4
-4-4
-4*4
-4/4
-sqrt(4)
-4^4
-4**8
+8+8
+8-8
+8*8
+8/8
+sqrt(8)
+8^8
+8**4
 
 
 10 %% 3 # modules division
